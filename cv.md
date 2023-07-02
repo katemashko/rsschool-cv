@@ -26,3 +26,19 @@ function multiply(a, b){
  return a * b;
 }
 ```
+---
+
+## Experience
+---
+
+## Education
+* University: Grodno State Medical University
+---
+
+## Courses
+* JavaScript Manual on [learn.javascript.ru](https://learn.javascript.ru/) (in progress)
+* RS School Course "JavaScript/Front-end. Stage 0" (in progress)
+---
+
+## English
+B1 level (Intermediate) according to the online test on EPAM Training Center
