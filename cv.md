@@ -29,6 +29,8 @@ function multiply(a, b){
 ---
 
 ## Experience
+
+* [CV Project](https://github.com/katemashko/rsschool-cv)
 ---
 
 ## Education
