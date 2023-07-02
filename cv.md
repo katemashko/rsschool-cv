@@ -18,3 +18,11 @@ As a doctor in the past, I can describe myself as a responsible, reliable, patie
 
 * JavaScript (basic)
 * VS Code (basic)
+---
+
+## Code Example
+```
+function multiply(a, b){
+ return a * b;
+}
+```
