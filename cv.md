@@ -11,3 +11,10 @@
 ## About me
 
 As a doctor in the past, I can describe myself as a responsible, reliable, patient and hardworking person. I'm also good team player and I eager to learn new things, so I would like to try my hand at studying Frontend Development. 
+
+---
+
+## Skills
+
+* JavaScript (basic)
+* VS Code (basic)
